@@ -1,4 +1,4 @@
 - 👀 I’m interested in global health research
-- :evergreen_tree: I’m currently learning how to use Git for the first time
-- 📫 You can reach me at hillaryt@live.unc.edu
+- :evergreen_tree: I am a new Git user!
+- 📫 You can reach me at h.topazian@imperial.ac.uk 
 - I love birds of all kinds :bird: :duck: :owl: :peacock: :swan: :flamingo: :parrot: :penguin: :dove: :turkey:
