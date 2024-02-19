@@ -2,3 +2,4 @@
 - :evergreen_tree: Currently learning geostatistical methods
 - 📫 You can reach me at h.topazian@imperial.ac.uk 
 - I love birds of all kinds :bird: :duck: :owl: :peacock: :swan: :flamingo: :parrot: :penguin: :dove: :turkey:
+- :globe_with_meridians: You can find me online at https://htopazian.github.io/
